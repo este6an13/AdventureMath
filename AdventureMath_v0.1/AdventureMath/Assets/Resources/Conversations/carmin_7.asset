@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6b160e656aee04eb0aea6beb388bfc, type: 3}
+  m_Name: carmin_7
+  m_EditorClassIdentifier: 
+  nombre: Carmin
+  frases:
+  - "\xA1Perfecto! Ya ver\xE1s porqu\xE9 era importante que conocieras estos cuatro
+    operadores de desigualdad."
+  - "Vamos a usar los n\xFAmeros NATURALES que Azaleia gener\xF3, y los representaremos
+    como un conjunto."
+  - "Ya sabes que hay dos formas de notaci\xF3n de conjuntos: por extensi\xF3n, y
+    por comprensi\xF3n."
+  - El resultado es el siguiente.
+  caraNPC: {fileID: 21300000, guid: c89d6e72828c04742a223dbf3feae4a1, type: 3}

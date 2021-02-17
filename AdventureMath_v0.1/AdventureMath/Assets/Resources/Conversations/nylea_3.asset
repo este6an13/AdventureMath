@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6b160e656aee04eb0aea6beb388bfc, type: 3}
+  m_Name: nylea_3
+  m_EditorClassIdentifier: 
+  nombre: Nylea
+  frases:
+  - Toma ese camino e intenta alcanzarlos.
+  - "Confiamos en t\xED."
+  caraNPC: {fileID: 21300000, guid: 793372aee99b90948b297ba2c39ba9d0, type: 3}

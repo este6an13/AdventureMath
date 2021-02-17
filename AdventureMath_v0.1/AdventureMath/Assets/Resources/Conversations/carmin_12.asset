@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6b160e656aee04eb0aea6beb388bfc, type: 3}
+  m_Name: carmin_12
+  m_EditorClassIdentifier: 
+  nombre: Carmin
+  frases:
+  - "Ahora que ya sabes qu\xE9 caracteriza a un n\xFAmero PRIMO, es momento de que
+    emprendas tu nueva misi\xF3n."
+  - "Busca el PORTAL DE ULAM, y resuelve el ejercicio que hay inscrito en \xE9l."
+  - "Pero antes, lanzar\xE9 un hechizo para extender la cantidad de n\xFAmeros que
+    tenemos a nuestra disposici\xF3n."
+  caraNPC: {fileID: 21300000, guid: c89d6e72828c04742a223dbf3feae4a1, type: 3}

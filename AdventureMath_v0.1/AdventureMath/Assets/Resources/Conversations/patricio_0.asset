@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6b160e656aee04eb0aea6beb388bfc, type: 3}
+  m_Name: patricio_0
+  m_EditorClassIdentifier: 
+  nombre: Patricio
+  frases:
+  - 'Hola, mi nombre es Patricio. '
+  - "\xBFQu\xE9 si vi una chica rubia junto a un joven de sueter verde? "
+  - "\xA1Si!. Iban corriendo tras unos encapuchados que parec\xEDan haber robado algo
+    grande y brillante."
+  - "Pero ya que est\xE1 aqu\xED, \xBFpor qu\xE9 no aprovechas y aprendes un poco
+    de los diagramas de Venn mientras admiras los vitrales de la catedral?"
+  - "De hecho, eso es lo que hago aqu\xED. A veces, en las tardes vengo aqu\xED y
+    aprecio la belleza de estas pinturas."
+  - "\xBFSabes? Los conjuntos se pueden operar entre si. La uni\xF3n, la intersecci\xF3n
+    y el complemento son operaciones entre conjuntos."
+  - "Tal como lo es la suma, la resta, la multiplicaci\xF3n y la divisi\xF3n en los
+    n\xFAmeros."
+  - "Cuando operamos dos o m\xE1s conjuntos obtenemos un nuevo conjunto."
+  - "Ac\xE9rcate a los vitrales y observa lo que est\xE1 inscrito en ellos."
+  - Yo debo irme. Cuidate.
+  caraNPC: {fileID: 21300000, guid: 33a20e4ab750ebe4db0c7bb6020f1bd0, type: 3}

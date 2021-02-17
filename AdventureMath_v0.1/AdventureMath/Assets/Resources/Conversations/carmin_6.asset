@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6b160e656aee04eb0aea6beb388bfc, type: 3}
+  m_Name: carmin_6
+  m_EditorClassIdentifier: 
+  nombre: Carmin
+  frases:
+  - "\xA1Uff ... qu\xE9 alivo!, bueno, ahora que Azaleia, Guardiana de los Bosques
+    Fractales, se ha ido vamos a continuar. "
+  - "Vamos a dejar de trabajar con frutas y las reemplazaremos con n\xFAmeros."
+  - "En este caso, tenemos veinte (20) n\xFAmeros NATURALES."
+  - "Por si no lo recuerdas, los n\xFAmeros NATURALES van desde el uno (o cero seg\xFAn
+    algunos autores) hasta el infinito positivo."
+  - "Esto significa, que nunca terminar\xEDas de contarlos."
+  - "Sin embargo, para poder explicarte los conceptos m\xE1s b\xE1sicos de conjuntos
+    de n\xFAmeros, necesitamos tener una cantidad limitada"
+  - "Es por eso que ahora mismo, solo tenemos los n\xFAmeros NATURALES del 1 al 20.
+    Para que todo sea m\xE1s sencillo."
+  - "Es momento de que conozcas los operadores de desigualdad. Pues nos ser\xE1n \xFAtiles
+    de ahora en adelante."
+  caraNPC: {fileID: 21300000, guid: c89d6e72828c04742a223dbf3feae4a1, type: 3}
